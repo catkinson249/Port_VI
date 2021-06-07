@@ -1,0 +1,53 @@
+# Instructions 
+Update this document to summarize research and information learned from this activity. 
+
+
+<br>
+
+# Project & Portfolio VI 
+
+* **RESEARCH - *How to Build an API*
+* **Courtney Atkinson**
+* **Assignment Due Date*Sun June 6, 2021
+
+<br>
+
+## API Design Basics
+Thinking of an API as resources that model objects and behavior allows for greater flexibility, fewer mistakes, and a more logical way of splitting up application. Each HTTP verb performs a specific task, but as a resource, creates many different operations for the API. Status codes creates consistency and helps us know exactly what happened and when it happened, making it easier to troubleshoot and test. 
+* Resources
+* HTTP Verbs
+* Status Codes
+
+<br>
+ 
+## Frontend Backend, together or separate?
+The user sees and interacts with what is known as the frontend of a website. These are the visuals and experiences and are often referred to as client-side codes. Backend is referred to server-side code, and it holds the logics of how a site works, as well as the data. Keeping them both together reduces miscommunications, is effective and for smaller projects and is efficient  for collaborating and resource usages.The downsides of keeping them together is more web pages a site has,the more ineffecient it will be. Keeping them separate creates modules, which means that no one will save over another person's work. Also, development and deployment  can be done parallely, reducing the amount of time needed to finish.
+* Defined
+* Together - Pros and Cons
+* KSeparating - Pros and Cons
+
+
+
+
+
+<br>
+
+## Reference Links
+Use this section to highlight your own independent research. Replace the example references below with your own links and recommended resources. It is acceptable to provide multiple links for a single topic.  
+
+What resource(s) did you find most helpful for this research assignment and why? 
+
+
+**Resource 1: Title*The essential guide for designing a production-ready, developer-friendly RESTful API*  
+[Site Address](https://blog.logrocket.com/the-essential-guide-for-designing-a-production-ready-developer-friendly-restful-api/)  
+
+**Resource 2: Title*Divide or Join: The Frontend Backend Dilemma
+*    
+[Site Address](https://opensenselabs.com/blog/articles/frontend-backend)
+
+**Resource 3: Title*Learn SQL: Types of relations*      
+[Site Address](https://www.sqlshack.com/learn-sql-types-of-relations/)
+
+
+
+
